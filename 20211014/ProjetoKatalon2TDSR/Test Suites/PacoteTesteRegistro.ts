@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>PacoteTesteRegistro</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>13667401-0468-4b55-82a2-fa9e21558719</testSuiteGuid>
+   <testCaseLink>
+      <guid>5f10e378-2059-4c1c-bfc7-700a6f1e4475</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TesteRegistro</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>36a36c03-5974-4389-877d-21f7e1d0bd1a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/BDMassaControladaTeste</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>36a36c03-5974-4389-877d-21f7e1d0bd1a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>45c6d99a-b237-4d98-8b4e-3b75f498720c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>36a36c03-5974-4389-877d-21f7e1d0bd1a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>59b68b0e-8f75-4028-8a10-50c65a0e42a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>36a36c03-5974-4389-877d-21f7e1d0bd1a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value></value>
+         <variableId>72e9e17d-7cb1-4461-bb81-3c4330d79e01</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
